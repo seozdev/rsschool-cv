@@ -21,6 +21,12 @@ I'm 36 years old. I am purposeful, diligent and inquisitive. I always find a com
 
 ### **Code Example**
 
+```
+function multiply(a, b){
+return  a * b
+}
+```
+
 ### **Experience**
 
 ### **Education**
