@@ -76,7 +76,7 @@ html {
 }
 
 body {
-  background: url(/img/pexels-hasan-albari-1229861.jpg);
+  background: url(./img/pexels-hasan-albari-1229861.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
